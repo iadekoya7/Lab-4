@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bottom-Navigation</string>
+    <string name="home">Home</string>
+    <string name="transaction">Transactions</string>
+    <string name="customer">Customer</string>
+    <string name="profile_screen">Profile Screen</string>
+    <string name="customer_screen">Customer Screen</string>
+    <string name="transaction_screen">Transaction Screen</string>
+    <string name="loan">Loans</string>
+    <string name="profile">Profile</string>
+</resources>
